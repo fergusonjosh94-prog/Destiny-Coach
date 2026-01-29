@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GhostAI: Destiny 2 Tactical Assistant",
+  "description": "A real-time AI companion for Destiny 2 players. Capture your gameplay via camera, screen share, or stream link and receive live tactical advice, loot analysis, and encounter strategies using Gemini 3 vision and audio capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
